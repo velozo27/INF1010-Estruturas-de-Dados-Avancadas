@@ -1,0 +1,20 @@
+Nomes:  Lucas Simões de Almeida - 1712101
+	Pedro Antônio Tibau Velozo - 1812013
+
+link para os arquivos do trabalho no Google Drive:
+	https://drive.google.com/drive/folders/1KGEumnXpjoZg7sUoSQJS2hS3_I_q7C_r?usp=sharing
+
+Instruções para execução do código:
+	1 - bote todos os arquivos no mesmo diretório
+
+	2 - digite no terminal: 
+		gcc -Wall -o main .\main.c .\trie.c -std=c99
+	    Para gerar um executavel main.exe
+
+	3 - digite no terminal:
+		./main
+	    Para rodar o código
+		
+		
+	
+	
